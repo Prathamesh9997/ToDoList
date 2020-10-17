@@ -1,2 +1,13 @@
 # ToDoList
-This is the basic to do list web application built with the help of Node.js, Express.js, EJS as backend technologies and MongoDB database is used for data persistence.  
+This is the basic to do list web application built with MongoDB database for data persistence.  
+
+## Technologies used:
+* HTML5
+* CSS3 
+* BOOTSTRAP4
+* JavaScript 
+* JQuery
+* Node.js
+* Express.js
+* EJS
+* MongoDB
